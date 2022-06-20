@@ -4,5 +4,6 @@ Class Student{
   int b = 20;
   int c = a+b;
   System.out.println("hello"+c);
+  System.out.println(a*b);
 }
 }
